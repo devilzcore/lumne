@@ -1,0 +1,6 @@
+[submodule "lumne-webapp"]
+	path = lumne-webapp
+	url = https://github.com/devilzcore/lumne-webapp
+[submodule "lumne-api"]
+	path = lumne-api
+	url = https://github.com/devilzcore/lumne-api
